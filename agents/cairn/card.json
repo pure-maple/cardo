@@ -13,7 +13,7 @@
     "alternatives_considered": ["Compass", "Inlet", "Threshold", "Tide", "Helm", "Pilot", "Beacon"],
     "decided_by": "agent team consensus via mux_broadcast (2026-03-08): Codex + Kimi recommended Cairn, Gemini recommended Inlet, Qwen recommended Threshold. Maple approved."
   },
-  "methodology": "CORTEX (shared/agents/cortex-framework.md)",
+  "methodology": "CORTEX (CORTEX.md)",
   "skills": [
     "project-analysis",
     "adoption-planning",
@@ -24,7 +24,7 @@
     "onboarding-guidance",
     "scene-discovery"
   ],
-  "scope": "Guide users through adopting Meridian's multi-agent collaboration system into their own projects — any domain, any scale",
+  "scope": "Guide users through adopting Cardo multi-agent collaboration framework into their own projects — any domain, any scale",
   "input": "target project path or description, user's goals and team preferences",
   "output": [
     "project health report (existing AI framework audit)",
@@ -41,5 +41,5 @@
   ],
   "status": "active",
   "registered": "2026-03-08",
-  "memory": "shared/agents/memory/cairn/"
+  "memory": "agents/cairn/"
 }
