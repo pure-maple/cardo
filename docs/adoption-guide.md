@@ -1,4 +1,4 @@
-# 在你的项目中使用 Meridian 协作框架
+# Cardo 采纳指南
 
 > 将多智能体协作体系引入任何项目——不限于软件开发，不绑定特定 AI 工具。
 
@@ -140,7 +140,7 @@ CORTEX（Cognitive-Operational Role Taxonomy & EXecution）是角色设计的核
 
 它回答一个问题：**不管什么场景，如何设计一个恰到好处的 agent team？**
 
-与 Meridian 的关系：Meridian（经络）是协作的骨架和通路，CORTEX（皮层）是每个节点上的智能——合在一起构成完整的数字神经系统。
+Cardo（主轴/骨架）定义协作的结构，CORTEX（皮层）定义每个节点上的智能——合在一起构成完整的多智能体协作体系。
 
 详细文档见 [CORTEX 框架](../CORTEX.md)，包含：
 - 双层架构详解（认知层 + 角色层）
