@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "display_name": "",
+  "model": "",
+  "escalation_model": "",
+  "provider": "",
+  "role": "",
+  "naming": {
+    "origin": "",
+    "meaning": "",
+    "rationale": "",
+    "keywords": [],
+    "alternatives_considered": [],
+    "decided_by": ""
+  },
+  "skills": [],
+  "scope": "",
+  "input": "",
+  "output": [],
+  "does_not_do": [],
+  "status": "active",
+  "registered": "",
+  "memory": ".agents/memory/<name>/"
+}
